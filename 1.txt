@@ -1,6 +1,0 @@
-Class Student
-{
-	int StudentId;
-	String StudentName;
-	int StudentMarks;
-}
