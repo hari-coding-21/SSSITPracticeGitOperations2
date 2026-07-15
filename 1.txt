@@ -1,7 +1,16 @@
+
 Story - 122
 Class register
 {
 	String name;
 	String password;
 	String email;
+
+Story-121
+Class login
+{
+	String username;
+	String password;
+	int value;
+
 }
