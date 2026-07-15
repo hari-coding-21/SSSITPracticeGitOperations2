@@ -1,0 +1,7 @@
+Story - 122
+Class register
+{
+	String name;
+	String password;
+	String email;
+}
