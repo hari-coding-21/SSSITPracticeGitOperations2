@@ -1,1 +1,0 @@
-Git revert is a command used to undo changes introduced by a specific commit by creating a new commit that applies the inverse changes, thereby preserving the full commit history.
